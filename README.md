@@ -1,5 +1,6 @@
 # Clean-and-prepare-a-raw-dataset
-This project focuses on essential data cleaning techniques using both Python (Pandas) to prepare datasets for further analysis. Clean data is a critical foundation for accurate analytics and insights, and this repository showcases the following preprocessing steps
+This project focuses on essential data cleaning techniques using both Python (Pandas) to prepare datasets for further analysis. Clean data is a critical foundation for accurate analytics and insights, and this repository showcases the following preprocessing steps. The notebook performs basic data preprocessing on a marketing campaign dataset. It begins by importing libraries and loading the dataset. 
+It checks for and handles missing values, removes duplicate entries, and finally saves the cleaned dataset to a new CSV file.
 
 
 🧹 Key Cleaning Steps:
@@ -24,3 +25,5 @@ Validated and converted data types appropriately (e.g., age as int, dates).
 
 🛠️ Tools Used:
 Python (Pandas)
+
+    
